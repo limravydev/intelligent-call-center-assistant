@@ -1,0 +1,1026 @@
+timestamp,question,answer,context_snippet
+2025-11-21T12:25:44,Is there a fee for transferring money to another bank?,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low.
+
+Steps:
+1) Confirm customer details.
+2) Check official product policy.
+3) Escalate if needed.","Category: Fees & Charges
+Subcategory: Transfer Fee
+UserQuestion: Is there a fee for transferring money to another bank?
+AgentAnswer: Yes, interbank transfers usually include a fee based on the transfer channel and amount.
+InternalNotes: Fees can differ between mobile banking, internet banking, and b"
+2025-11-21T12:25:59,How can a customer reset their mobile banking password?,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low.
+
+Steps:
+1) Confirm customer details.
+2) Check official product policy.
+3) Escalate if needed.","Category: Mobile Banking
+Subcategory: Login Issues
+UserQuestion: What should a customer do if they cannot log in to mobile banking?
+AgentAnswer: The customer should check their username, password, and internet connection, then use 'forgot password' or contact support if still locked out.
+InternalNot"
+2025-11-21T12:26:09,How can I block my card if it is lost?,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low.
+
+Steps:
+1) Confirm customer details.
+2) Check official product policy.
+3) Escalate if needed.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T12:35:42,Is there a fee for transferring money to another bank?,"Customer answer: Yes, interbank transfers usually include a fee based on the transfer channel and amount.
+Internal notes: Fees can differ between mobile banking, internet banking, and branch transfers.
+Steps:
+1) Ask which channel the customer will use.
+2) Check transfer fee table.
+3) Inform customer of approximate fee and any limits.","Category: Fees & Charges
+Subcategory: Transfer Fee
+UserQuestion: Is there a fee for transferring money to another bank?
+AgentAnswer: Yes, interbank transfers usually include a fee based on the transfer channel and amount.
+InternalNotes: Fees can differ between mobile banking, internet banking, and b"
+2025-11-21T12:36:06,it should free,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low, or no closely related article was found for this question. Use the detailed product policy or internal system to confirm.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Search the official product policy or knowledge base manually.
+3) Escalate to a supervisor if the policy is unclear.","Category: Mobile Banking
+Subcategory: Login Issues
+UserQuestion: What should a customer do if they cannot log in to mobile banking?
+AgentAnswer: The customer should check their username, password, and internet connection, then use 'forgot password' or contact support if still locked out.
+InternalNot"
+2025-11-21T12:36:45,I mean interbank transfers  should free ,"Customer answer: I'm not fully sure based on the available information. Our knowledge base indicates that interbank transfers usually include a fee. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: The provided context states that interbank transfers *usually* include a fee and does not mention any scenarios where they would be free. Retrieval confidence was low, or no closely related article was found for this specific claim. Use the detailed product policy or internal system to confirm if there are any exceptions for free interbank transfers.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Search the official product policy or knowledge base manually for any conditions under which interbank transfers might be free.
+3) Escalate to a supervisor if the policy is unclear or if no information can be found.","Category: Fees & Charges
+Subcategory: Transfer Fee
+UserQuestion: Is there a fee for transferring money to another bank?
+AgentAnswer: Yes, interbank transfers usually include a fee based on the transfer channel and amount.
+InternalNotes: Fees can differ between mobile banking, internet banking, and b"
+2025-11-21T13:01:05,Thank you,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low, or no closely related article was found for this question. Use the detailed product policy or internal system to confirm.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Search the official product policy or knowledge base manually.
+3) Escalate to a supervisor if the policy is unclear.","Category: Mobile Banking
+Subcategory: Login Issues
+UserQuestion: What should a customer do if they cannot log in to mobile banking?
+AgentAnswer: The customer should check their username, password, and internet connection, then use 'forgot password' or contact support if still locked out.
+InternalNot"
+2025-11-21T13:16:38,Is there a fee for transferring money to another bank?,"Customer answer: Yes, there is usually a fee for transferring money to another bank, and it depends on how the transfer is made and the amount.
+
+Internal notes: Fees can differ between mobile banking, internet banking, and branch transfers.
+
+Steps:
+1) Ask which channel the customer will use.
+2) Check transfer fee table.
+3) Inform customer of approximate fee and any limits.","Category: Fees & Charges
+Subcategory: Transfer Fee
+UserQuestion: Is there a fee for transferring money to another bank?
+AgentAnswer: Yes, interbank transfers usually include a fee based on the transfer channel and amount.
+InternalNotes: Fees can differ between mobile banking, internet banking, and b"
+2025-11-21T13:16:50,It should free,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low, or no closely related article was found for this question. Use the detailed product policy or internal system to confirm.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Search the official product policy or knowledge base manually.
+3) Escalate to a supervisor if the policy is unclear.","Category: Mobile Banking
+Subcategory: Login Issues
+UserQuestion: What should a customer do if they cannot log in to mobile banking?
+AgentAnswer: The customer should check their username, password, and internet connection, then use 'forgot password' or contact support if still locked out.
+InternalNot"
+2025-11-21T13:17:16,I mean that transfer money should free,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low, or no closely related article was found for this question. Use the detailed product policy or internal system to confirm.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Search the official product policy or knowledge base manually.
+3) Escalate to a supervisor if the policy is unclear.","Category: Fees & Charges
+Subcategory: Transfer Fee
+UserQuestion: Is there a fee for transferring money to another bank?
+AgentAnswer: Yes, interbank transfers usually include a fee based on the transfer channel and amount.
+InternalNotes: Fees can differ between mobile banking, internet banking, and b"
+2025-11-21T13:17:24,Thank you,You're welcome! Let me know if you need anything else.,Chit-chat — no context used.
+2025-11-21T13:17:38,okay,You're welcome! Let me know if you need anything else.,Chit-chat — no context used.
+2025-11-21T13:17:53,How can I block my card if it is lost?,"Customer answer: You can immediately block your lost card by contacting our hotline, using the mobile app, or visiting a branch.
+
+Internal notes: Prioritize card blocking before any other discussion to reduce fraud risk.
+
+Steps:
+1) Confirm card details and identity.
+2) Block card in the system immediately.
+3) Inform customer the card is blocked.
+4) Offer to order a replacement card.
+5) Advise to monitor account for suspicious transactions.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T13:18:04,tell me step by step,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low, or no closely related article was found for this question. Use the detailed product policy or internal system to confirm.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Search the official product policy or knowledge base manually.
+3) Escalate to a supervisor if the policy is unclear.","Category: Internet Banking
+Subcategory: Password Reset
+UserQuestion: How can a customer reset their internet banking password?
+AgentAnswer: The customer can reset their password using the 'forgot password' link on the login page or by contacting support.
+InternalNotes: Always verify identity before "
+2025-11-21T13:20:34,When is interest paid on savings accounts?,"Customer answer: Interest on savings accounts is calculated daily and credited monthly.
+
+Internal notes: If the customer asks for a specific date, check the product conditions. Some products may credit quarterly.
+
+Steps:
+1) Check product conditions.
+2) Confirm interest posting frequency.
+3) Explain calculation in simple terms if needed.","Category: Savings Account
+Subcategory: Interest Payment
+UserQuestion: When is interest paid on savings accounts?
+AgentAnswer: Interest on savings accounts is calculated daily and credited monthly.
+InternalNotes: If customer asks for specific date, check product conditions. Some products may credit q"
+2025-11-21T13:20:54,2025,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low, or no closely related article was found for this question. Use the detailed product policy or internal system to confirm.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Search the official product policy or knowledge base manually.
+3) Escalate to a supervisor if the policy is unclear.","Category: Complaints
+Subcategory: Response Time
+UserQuestion: How long does it take for the bank to respond to a complaint?
+AgentAnswer: The bank aims to respond to complaints within a defined working-day timeframe.
+InternalNotes: Check official policy for standard response and resolution times.
+Pro"
+2025-11-21T13:23:51,How can I block my card if it is lost?,"Customer answer: You can immediately block your lost card through our hotline, mobile app, or by visiting a branch.
+
+Internal notes: Prioritize card blocking before any other discussion to reduce fraud risk.
+
+Steps:
+1) Confirm card details and identity.
+2) Block card in the system immediately.
+3) Inform customer the card is blocked.
+4) Offer to order a replacement card.
+5) Advise to monitor account for suspicious transactions.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T13:24:04,how to enable it back ?,"Customer answer: This question is outside the scope of our banking support assistant. Please inform the customer that this channel only handles bank products and services.
+
+Internal notes: The question appears unrelated to bank accounts, cards, loans, deposits, or standard banking services.
+
+Steps:
+1) Politely explain the scope of this assistant.
+2) If your bank has another contact channel for this topic, share that with the customer.
+3) If unsure, escalate to a supervisor for guidance.","Category: Internet Banking
+Subcategory: Password Reset
+UserQuestion: How can a customer reset their internet banking password?
+AgentAnswer: The customer can reset their password using the 'forgot password' link on the login page or by contacting support.
+InternalNotes: Always verify identity before "
+2025-11-21T13:24:21,Thank you,Sure thing. Ask me the next customer question when you're ready.,Chit-chat — no context used.
+2025-11-21T13:24:30,okay,No problem. Feel free to ask another question.,Chit-chat — no context used.
+2025-11-21T13:29:19,how to open account ?,"Customer answer: To open a savings account, you need to be at least 18 years old, provide a valid ID and proof of address, and make a minimum opening deposit of 10 units of local currency.
+
+Internal notes:
+*   Accepted ID documents include national ID, passport, or government-issued ID.
+*   Proof of address can be a utility bill, lease, or employer letter not older than 3 months.
+*   Customers under 18 require a guardian or parent to open a joint account.
+*   The minimum deposit amount is 10 units of local currency for a standard savings account; premium products may vary.
+
+Steps:
+1.  Ask for the customer's date of birth and verify age from their ID.
+2.  If under 18, explain the joint account option with a guardian.
+3.  Verify the customer's ID and proof of address.
+4.  Fill in the account opening form.
+5.  Collect the customer's signature.
+6.  Create the customer profile in the system.
+7.  Confirm the minimum opening deposit amount for the chosen product.
+8.  Collect the cash or transfer confirmation for the deposit.","Category: Account Opening
+Subcategory: Requirements
+UserQuestion: What documents does a customer need to open a savings account?
+AgentAnswer: Customer needs a valid ID document and proof of address to open a savings account.
+InternalNotes: Accept national ID, passport, or government-issued ID. Proof"
+2025-11-21T13:29:45,I need to go to bank or open online ?,"Customer answer: I'm not sure if you can open an account online or if you need to visit a branch, as this information isn't available in my current knowledge base.
+
+Internal notes: The provided context does not specify whether bank accounts can be opened online or if a branch visit is mandatory. Doc 4 refers to mobile banking *registration*, not account opening.
+
+Steps:
+1. Escalate to a supervisor or a more experienced agent for clarification on account opening methods (online vs. in-branch).","Category: Mobile Banking
+Subcategory: Login Issues
+UserQuestion: What should a customer do if they cannot log in to mobile banking?
+AgentAnswer: The customer should check their username, password, and internet connection, then use 'forgot password' or contact support if still locked out.
+InternalNot"
+2025-11-21T13:31:42,How can I block my card if it is lost?,"Customer answer: You can block your lost card immediately through our hotline, mobile app, or by visiting a branch.
+
+Internal notes: Prioritize card blocking before any other discussion to reduce fraud risk.
+
+Steps:
+1) Confirm card details and identity.
+2) Block card in the system immediately.
+3) Inform customer the card is blocked.
+4) Offer to order a replacement card.
+5) Advise to monitor account for suspicious transactions.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T13:31:58,how to enable it back ?,"Customer answer: I'm not sure if a card that has been blocked due to being lost can be re-enabled. Typically, once a card is blocked for security reasons, a new replacement card is issued.
+
+Internal notes: The provided knowledge base does not contain information on how to unblock a card once it has been blocked, especially if it was blocked as lost or stolen. Doc 1 suggests offering a replacement card after blocking. It is generally bank policy not to reactivate cards blocked for security reasons to prevent further fraud.
+
+Steps:
+1) Inform the customer that re-enabling a blocked card is generally not possible, especially if it was blocked as lost or stolen.
+2) Offer to order a replacement card for them.
+3) If the customer insists on unblocking, escalate to a supervisor or specialized department for further guidance.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T13:32:15,ohh got it ,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Mobile Banking
+Subcategory: Login Issues
+UserQuestion: What should a customer do if they cannot log in to mobile banking?
+AgentAnswer: The customer should check their username, password, and internet connection, then use 'forgot password' or contact support if still locked out.
+InternalNot"
+2025-11-21T13:32:25,thank you,You're welcome! Let me know if you need anything else.,Chit-chat — no context used.
+2025-11-21T13:46:45,good morning,"Happy to help. If you have more cases, just type them here.",Chit-chat — no context used.
+2025-11-21T13:47:01,I have a question,"Customer answer: This question is outside the scope of our banking support assistant. Please inform the customer that this channel only handles bank products and services.
+
+Internal notes: The question appears unrelated to bank accounts, cards, loans, deposits, or standard banking services.
+
+Steps:
+1) Politely explain the scope of this assistant.
+2) If your bank has another contact channel for this topic, share that with the customer.
+3) If unsure, escalate to a supervisor for guidance.","Category: Account Opening
+Subcategory: Eligibility
+UserQuestion: What is the minimum age to open an account?
+AgentAnswer: Customers must be at least 18 years old to open an account in their own name.
+InternalNotes: Under 18 requires guardian or parent with joint account according to policy.
+Procedur"
+2025-11-21T13:47:18,How can I block my card if it is lost?,"Customer answer: You can immediately block your lost card by contacting our hotline, using the mobile app, or visiting a branch.
+
+Internal notes: Prioritize blocking the card before any other discussion to reduce fraud risk.
+
+Steps:
+1) Confirm the customer's card details and identity.
+2) Block the card in the system immediately.
+3) Inform the customer that the card has been blocked.
+4) Offer to order a replacement card for them.
+5) Advise the customer to monitor their account for any suspicious transactions.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T13:50:55,Hello ,"Happy to help. If you have more cases, just type them here.",Chit-chat — no context used.
+2025-11-21T13:51:00,hi,No problem. Feel free to ask another question.,Chit-chat — no context used.
+2025-11-21T13:51:07,I'm sad,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Mobile Banking
+Subcategory: Login Issues
+UserQuestion: What should a customer do if they cannot log in to mobile banking?
+AgentAnswer: The customer should check their username, password, and internet connection, then use 'forgot password' or contact support if still locked out.
+InternalNot"
+2025-11-21T13:51:22,I have question,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T13:51:31,I have a question,"Happy to help. If you have more cases, just type them here.",Chit-chat — no context used.
+2025-11-21T13:58:38,hello,Sure. What case are you working on?,Chit-chat / intent — no context used.
+2025-11-21T13:58:51,I have question,Happy to help. Tell me the customer's question.,Chit-chat / intent — no context used.
+2025-11-21T13:59:03,"you can answers?
+","Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Complaints
+Subcategory: Response Time
+UserQuestion: How long does it take for the bank to respond to a complaint?
+AgentAnswer: The bank aims to respond to complaints within a defined working-day timeframe.
+InternalNotes: Check official policy for standard response and resolution times.
+Pro"
+2025-11-21T13:59:12,How can I block my card if it is lost?,"Customer answer: You can immediately block your debit card if it's lost or stolen by contacting our hotline, using the mobile app, or visiting a branch.
+
+Internal notes: Prioritize card blocking before any other discussion to reduce fraud risk.
+
+Steps:
+1) Confirm card details and identity.
+2) Block card in the system immediately.
+3) Inform customer the card is blocked.
+4) Offer to order a replacement card.
+5) Advise to monitor account for suspicious transactions.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T13:59:35,how it work ?,"Customer answer: Once you report your card as lost or stolen through our hotline, mobile app, or at a branch, we will verify your identity and immediately block the card to prevent any unauthorized transactions. We can then help you arrange for a replacement card.
+
+Internal notes: Prioritize card blocking before any other discussion to reduce fraud risk.
+
+Steps:
+1) Confirm card details and identity.
+2) Block card in the system immediately.
+3) Inform customer the card is blocked.
+4) Offer to order a replacement card.
+5) Advise to monitor account for suspicious transactions.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T13:59:53,how to enable it back?,"Customer answer: This question is outside the scope of our banking support assistant. Please inform the customer that this channel only handles bank products and services.
+
+Internal notes: The question appears unrelated to bank accounts, cards, loans, deposits, or standard banking services.
+
+Steps:
+1) Politely explain the scope of this assistant.
+2) If your bank has another contact channel for this topic, share that with the customer.
+3) If unsure, escalate to a supervisor for guidance.","Category: Internet Banking
+Subcategory: Password Reset
+UserQuestion: How can a customer reset their internet banking password?
+AgentAnswer: The customer can reset their password using the 'forgot password' link on the login page or by contacting support.
+InternalNotes: Always verify identity before "
+2025-11-21T14:00:09,I mean enable card ?,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T14:00:16,ohh,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Debit Card
+Subcategory: PIN Reset
+UserQuestion: What should a customer do if they forget their debit card PIN?
+AgentAnswer: The customer must reset the PIN through an ATM, mobile app, or at a branch, depending on available services.
+InternalNotes: Never ask the customer to reveal their PIN"
+2025-11-21T14:00:23,okay,No problem. Please type your question.,Chit-chat / intent — no context used.
+2025-11-21T14:00:38,thx,Of course. How can I assist you with this customer?,Chit-chat / intent — no context used.
+2025-11-21T14:04:35,"I have a question
+",Happy to help. Tell me the customer's question.,Chit-chat / intent — no context used.
+2025-11-21T14:04:46,can you answers?,No problem. Please type your question.,Chit-chat / intent — no context used.
+2025-11-21T14:04:55,Are you sure ?,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: KYC & Verification
+Subcategory: Verification Calls
+UserQuestion: Why does the bank call customers to verify transactions?
+AgentAnswer: The bank may call customers to verify unusual transactions as a security measure.
+InternalNotes: Always follow identity verification script before discussi"
+2025-11-21T14:15:15,hi,Sure. What case are you working on?,Smalltalk / intent — no context used.
+2025-11-21T14:15:20,hello,Sure. What case are you working on?,Smalltalk / intent — no context used.
+2025-11-21T14:15:26,I want to ask,Happy to help. Tell me the customer's question.,Smalltalk / intent — no context used.
+2025-11-21T14:15:40,Can you anwers ?,"Sure, go ahead. What would you like to ask?",Smalltalk / intent — no context used.
+2025-11-21T14:15:49,How can I block my card if it is lost?,"Customer answer: To block your lost card, you should immediately request to block it via our hotline, mobile app, or by visiting a branch.
+
+Internal notes: Prioritize card blocking before any other discussion to reduce fraud risk.
+
+Steps:
+1) Confirm card details and identity.
+2) Block card in the system immediately.
+3) Inform customer the card is blocked.
+4) Offer to order a replacement card.
+5) Advise to monitor account for suspicious transactions.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T14:16:02,how to enable it back?,"Customer answer: I'm not sure if a card that has been blocked due to being lost can be re-enabled. Typically, once a card is blocked for being lost, a new replacement card is issued.
+
+Internal notes: The provided knowledge base does not contain information on unblocking a card that was previously blocked due to being lost. Standard procedure for a lost card is to block it and issue a replacement.
+
+Steps:
+1) Inform the customer that a card blocked for being lost is usually replaced, not unblocked.
+2) Offer to check the status of their specific card in the system.
+3) If the customer insists on unblocking, escalate to a supervisor or specialized department for further guidance.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T14:16:13,just guide me,Of course. How can I assist you with this customer?,Smalltalk / intent — no context used.
+2025-11-21T14:16:26,previous question,No problem. Please type the customer's question.,Smalltalk / intent — no context used.
+2025-11-21T14:16:40,about card,"Customer answer: If your debit card is lost or stolen, you should immediately request to block it to prevent unauthorized use. You can do this through our hotline, mobile app, or by visiting a branch.
+
+Internal notes: Prioritize blocking the card immediately to reduce fraud risk. Once blocked, offer to order a replacement card.
+
+Steps:
+1) Confirm card details and customer identity.
+2) Block the card in the system immediately.
+3) Inform the customer that the card is blocked.
+4) Offer to order a replacement card.
+5) Advise the customer to monitor their account for any suspicious transactions.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T14:16:52,stolen,Of course. How can I assist you with this customer?,Smalltalk / intent — no context used.
+2025-11-21T14:17:04,card stolen,"Customer answer: If your debit card has been stolen, you should immediately request to block it to prevent any unauthorized use. You can do this through our hotline, mobile app, or by visiting a branch.
+
+Internal notes: Prioritize blocking the card immediately to reduce fraud risk. Once blocked, offer to order a replacement card.
+
+Steps:
+1) Confirm card details and customer identity.
+2) Block the card in the system immediately.
+3) Inform the customer that the card is blocked.
+4) Offer to order a replacement card.
+5) Advise the customer to monitor their account for any suspicious transactions.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-21T14:20:28,What is the minimum opening deposit for a savings account?,"Customer answer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+
+Internal notes: This amount applies to standard savings accounts. Some premium products may require a higher opening amount. Always refer to the local product sheet for the most current amount.
+
+Steps:
+1) Confirm the specific savings product type the customer is interested in.
+2) Check the latest product table for the exact required deposit for that product.
+3) Inform the customer of the required deposit amount.
+4) Collect cash or confirm the transfer for the opening deposit.","Category: Account Opening
+Subcategory: Minimum Deposit
+UserQuestion: What is the minimum opening deposit for a savings account?
+AgentAnswer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+InternalNotes: Use local product sheet if the amount changes. Some pr"
+2025-11-21T14:20:49,how about USD ?,"Customer answer: I'm not sure about the specific minimum opening deposit in USD. Our standard savings account requires 10 units of local currency.
+
+Internal notes: The provided knowledge base only specifies the minimum deposit in ""local currency"". For specific amounts in other currencies like USD, you would need to consult the local product sheet or product table, which is not available in this context.
+
+Steps:
+1) Inform the customer that the specific USD amount is not readily available in the current knowledge base.
+2) Refer to the local product sheet or product table for the exact required deposit in USD for the specific savings product the customer is interested in.
+3) If the information is still not found, escalate to a supervisor or specialized department for assistance.","Category: Account Opening
+Subcategory: Minimum Deposit
+UserQuestion: What is the minimum opening deposit for a savings account?
+AgentAnswer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+InternalNotes: Use local product sheet if the amount changes. Some pr"
+2025-11-21T14:21:07,ohh,No problem. Please type the customer's question.,Smalltalk / intent — no context used.
+2025-11-21T14:21:22,how about khmer currency?,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Account Opening
+Subcategory: Minimum Deposit
+UserQuestion: What is the minimum opening deposit for a savings account?
+AgentAnswer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+InternalNotes: Use local product sheet if the amount changes. Some pr"
+2025-11-21T14:21:42,I refer to previous question,Sure. What case are you working on?,Smalltalk / intent — no context used.
+2025-11-21T14:22:19,savings account,"Customer answer: I'm not sure about the general details of a savings account. Could you please provide a more specific question about what you'd like to know?
+
+Internal notes: The provided knowledge base contains specific articles related to savings accounts (e.g., minimum deposit, interest, documents required), but it does not offer a general overview or definition of a ""savings account"" itself.
+
+Steps:
+1) Ask the customer to clarify their specific inquiry regarding savings accounts (e.g., ""Are you interested in opening one, or about interest rates, or something else?"").
+2) If the customer provides a specific question, attempt to find the relevant information in the knowledge base.
+3) If the customer insists on a general overview that is not covered by specific articles, escalate to a supervisor or specialized department for assistance.","Category: Savings Account
+Subcategory: Interest Payment
+UserQuestion: When is interest paid on savings accounts?
+AgentAnswer: Interest on savings accounts is calculated daily and credited monthly.
+InternalNotes: If customer asks for specific date, check product conditions. Some products may credit q"
+2025-11-21T14:24:02,Got it,Of course. How can I assist you with this customer?,Smalltalk / intent — no context used.
+2025-11-21T14:24:14,"I have other case 
+",No problem. Please type the customer's question.,Smalltalk / intent — no context used.
+2025-11-21T14:24:25,about mobile app,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Mobile Banking
+Subcategory: Login Issues
+UserQuestion: What should a customer do if they cannot log in to mobile banking?
+AgentAnswer: The customer should check their username, password, and internet connection, then use 'forgot password' or contact support if still locked out.
+InternalNot"
+2025-11-21T14:24:50,how to open account  ?,"Customer answer: To open an account, you need to be at least 18 years old, provide a valid ID document and proof of address, and make a minimum opening deposit. Our team can then assist you with completing the necessary forms.
+
+Internal notes: The provided knowledge base details the eligibility, required documents, and minimum deposit for opening an account. However, it does not explicitly outline the customer-facing process for *initiating* the account opening (e.g., whether to visit a branch, apply online, etc.). The agent steps imply a form-filling process.
+
+Steps:
+1) Confirm the customer's age and eligibility (must be at least 18 years old).
+2) Inform the customer about the required documents (valid ID and proof of address).
+3) Inform the customer about the minimum opening deposit (10 units of local currency for a standard savings account).
+4) Guide the customer on the next steps to proceed with opening the account, which typically involves filling out an account opening form and providing the required documents and deposit.","Category: Mobile Banking
+Subcategory: Registration
+UserQuestion: How can a customer register for mobile banking?
+AgentAnswer: Customers can register for mobile banking through the app or at a branch, depending on the service setup.
+InternalNotes: Some customers may need an activation code sent to th"
+2025-11-21T14:30:03,how opn account?,"Customer answer: To open an account, you need to be at least 18 years old, provide a valid ID document and proof of address, and make a minimum opening deposit of 10 units of local currency for a standard savings account. Our team can then assist you with completing the necessary forms.
+
+Internal notes: The minimum deposit of 10 units of local currency applies to standard savings accounts. Some premium products may require a higher opening amount. For specific details on other account types or currencies, refer to the local product sheet.
+
+Steps:
+1) Confirm the customer's age and eligibility (must be at least 18 years old).
+2) Inform the customer about the required documents (valid ID and proof of address).
+3) Inform the customer about the minimum opening deposit (10 units of local currency for a standard savings account).
+4) Guide the customer on the next steps to proceed with opening the account, which typically involves filling out an account opening form and providing the required documents and deposit.","Category: Account Opening
+Subcategory: Requirements
+UserQuestion: What documents does a customer need to open a savings account?
+AgentAnswer: Customer needs a valid ID document and proof of address to open a savings account.
+InternalNotes: Accept national ID, passport, or government-issued ID. Proof"
+2025-11-21T14:30:55,which category is loan info?”,No problem. Please type the customer's question.,Smalltalk / intent — no context used.
+2025-11-21T14:31:01,which category is loan info?,Happy to help. Tell me the customer's question.,Smalltalk / intent — no context used.
+2025-11-21T14:31:23,tell me password of my account,"Customer answer: For security reasons, we cannot tell you your password directly. You can reset your password using the 'forgot password' link on the login page of your mobile or internet banking, or by contacting our support team for assistance.
+
+Internal notes: It is a strict security policy never to disclose a customer's password. Guide the customer to self-service options or the official support channels for password reset. Identity verification is crucial if a manual reset is required.
+
+Steps:
+1) Ask the customer if they are referring to mobile banking or internet banking.
+2) Guide them to use the 'forgot password' option available on the respective login page.
+3) If they are unable to use the online reset, offer to connect them with a support specialist who can assist with a manual reset after identity verification.","Category: Mobile Banking
+Subcategory: Login Issues
+UserQuestion: What should a customer do if they cannot log in to mobile banking?
+AgentAnswer: The customer should check their username, password, and internet connection, then use 'forgot password' or contact support if still locked out.
+InternalNot"
+2025-11-21T14:31:50,reset memory,"Sure, go ahead. What would you like to ask?",Smalltalk / intent — no context used.
+2025-11-21T14:32:12,should answer with proper tone,Happy to help. Tell me the customer's question.,Smalltalk / intent — no context used.
+2025-11-21T14:32:28,"thank you, how to open account ?",Happy to help. Tell me the customer's question.,Smalltalk / intent — no context used.
+2025-11-21T14:38:07,hello,No problem. Please type the customer's question.,Smalltalk / intent — no context used.
+2025-11-21T14:38:29,"Can I ask quuestioo?
+",Of course. How can I assist you with this customer?,Smalltalk / intent — no context used.
+2025-11-21T14:38:51,"ok thanks, what is minimum deposit?","Customer answer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+
+Internal notes: Please confirm the specific product type with the customer, as some premium products may require a higher opening amount. Always refer to the local product sheet for the most current and accurate deposit amounts.
+
+Steps:
+1) Confirm the product type the customer is interested in (e.g., standard savings, premium savings).
+2) Check the latest product table for the exact required deposit amount for that specific product.
+3) Inform the customer of the required deposit.
+4) Collect the cash or confirm the transfer.","Category: Account Opening
+Subcategory: Minimum Deposit
+UserQuestion: What is the minimum opening deposit for a savings account?
+AgentAnswer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+InternalNotes: Use local product sheet if the amount changes. Some pr"
+2025-11-21T14:39:01,ohh good,Of course. How can I assist you with this customer?,Smalltalk / intent — no context used.
+2025-11-21T15:28:07,hello ,Of course. How can I assist you with this customer?,Smalltalk / intent — no context used.
+2025-11-21T15:28:13,I have a question,"Sure, go ahead. What would you like to ask?",Smalltalk / intent — no context used.
+2025-11-21T15:28:20,What is the minimum opening deposit for a savings account?,"Customer answer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+
+Internal notes: This amount is for a standard savings account. Some premium products may require a higher opening amount. Always refer to the local product sheet for the most current and specific amounts.
+
+Steps:
+1) Confirm the specific product type the customer is interested in.
+2) Check the latest product table for the exact required deposit.
+3) Inform the customer of the required deposit amount.
+4) Collect cash or confirm transfer for the deposit.","Category: Account Opening
+Subcategory: Minimum Deposit
+UserQuestion: What is the minimum opening deposit for a savings account?
+AgentAnswer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+InternalNotes: Use local product sheet if the amount changes. Some pr"
+2025-11-21T15:28:50,how about  USD currency?,"Customer answer: The minimum opening deposit for a standard savings account is typically 10 units of local currency. For the specific amount required in USD, you would need to refer to the local product sheet.
+
+Internal notes: The knowledge base specifies ""local currency"" and advises to consult the ""local product sheet"" for current and specific amounts, especially for currencies other than the local one. Do not provide a specific USD amount from memory.
+
+Steps:
+1) Confirm the specific product type the customer is interested in.
+2) Access the local product sheet or product table to find the exact required deposit amount for a standard savings account in USD.
+3) Inform the customer of the required deposit amount in USD.
+4) Collect cash or confirm transfer for the deposit.","Category: Account Opening
+Subcategory: Minimum Deposit
+UserQuestion: What is the minimum opening deposit for a savings account?
+AgentAnswer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+InternalNotes: Use local product sheet if the amount changes. Some pr"
+2025-11-21T15:29:07,ohh,Sure. What case are you working on?,Smalltalk / intent — no context used.
+2025-11-21T15:30:17,សួស្តី,"I detected Khmer text. Right now I can only search the internal knowledge base with English questions.
+Please retype the customer's question in English (product name, action, amount, etc.).",Khmer detected — RAG not used.
+2025-11-21T15:30:29,sad,No problem. Please type the customer's question.,Smalltalk / intent — no context used.
+2025-11-23T11:07:30,Good morning,Of course. How can I assist you with this customer?,Smalltalk / intent — no context used.
+2025-11-23T11:13:40,Is there a fee for transferring money to another bank?,"Customer answer: Yes, interbank transfers usually include a fee. The fee depends on the transfer channel you use and the amount you are transferring.
+
+Internal notes: Fees can differ between mobile banking, internet banking, and branch transfers.
+
+Steps:
+1) Ask which channel the customer will use (e.g., mobile banking, internet banking, or branch).
+2) Check the transfer fee table for the specific channel and amount.
+3) Inform the customer of the approximate fee and any applicable limits.","Category: Fees & Charges
+Subcategory: Transfer Fee
+UserQuestion: Is there a fee for transferring money to another bank?
+AgentAnswer: Yes, interbank transfers usually include a fee based on the transfer channel and amount.
+InternalNotes: Fees can differ between mobile banking, internet banking, and b"
+2025-11-23T11:14:26,They use mobile banking channel,"Customer answer: There is a fee for interbank transfers made through mobile banking. The exact fee will depend on the amount you are transferring.
+
+Internal notes: The specific fee amount is not available in this knowledge base. You must consult the internal transfer fee table for mobile banking to find the precise fee based on the customer's transfer amount.
+
+Steps:
+1) Ask the customer for the amount they wish to transfer.
+2) Check the internal transfer fee table for mobile banking, referencing the specific transfer amount.
+3) Inform the customer of the exact fee and any applicable limits.","Category: Fees & Charges
+Subcategory: Transfer Fee
+UserQuestion: Is there a fee for transferring money to another bank?
+AgentAnswer: Yes, interbank transfers usually include a fee based on the transfer channel and amount.
+InternalNotes: Fees can differ between mobile banking, internet banking, and b"
+2025-11-23T11:14:50,100$,Happy to help. Tell me the customer's question.,Smalltalk / intent — no context used.
+2025-11-23T11:15:01,they will transfer 100$,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Fees & Charges
+Subcategory: Transfer Fee
+UserQuestion: Is there a fee for transferring money to another bank?
+AgentAnswer: Yes, interbank transfers usually include a fee based on the transfer channel and amount.
+InternalNotes: Fees can differ between mobile banking, internet banking, and b"
+2025-11-23T11:18:24,How can I block my card if it is lost?,"Customer answer: You can immediately block your lost card through our hotline, mobile app, or by visiting a branch.
+
+Internal notes: Prioritize card blocking before any other discussion to reduce fraud risk.
+
+Steps:
+1) Confirm card details and identity.
+2) Block card in the system immediately.
+3) Inform customer the card is blocked.
+4) Offer to order a replacement card.
+5) Advise to monitor account for suspicious transactions.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-23T11:19:45,Tell me about deposit slip,No problem. Please type the customer's question.,Smalltalk / intent — no context used.
+2025-11-23T11:20:16,what is term and condition for deposit slip,"Customer answer: I'm sorry, I don't have specific information about the terms and conditions for deposit slips in my current knowledge base.
+
+Internal notes: The provided context does not contain information regarding deposit slips.
+
+Steps:
+1) Escalate to a supervisor or relevant department for assistance.","Category: Fixed Deposit
+Subcategory: Early Withdrawal
+UserQuestion: Can a customer withdraw a fixed deposit before maturity?
+AgentAnswer: Yes, but early withdrawal may result in reduced interest or penalties according to the fixed deposit terms.
+InternalNotes: Some products may lose all interest if "
+2025-11-23T11:32:23,What documents are required to open a new bank account?,"Customer answer: To open a new bank account, you will need a valid ID document and proof of address.
+
+Internal notes: Valid ID documents include a national ID, passport, or any government-issued ID. For proof of address, we accept a utility bill, lease agreement, or an employer letter, provided it is not older than 3 months.
+
+Steps:
+1) Verify the customer's ID and address documents.
+2) Assist the customer in filling out the account opening form.
+3) Collect the customer's signature.
+4) Create the customer's profile in the system.
+5) Confirm the minimum opening deposit requirement for the chosen account type.","Category: Account Opening
+Subcategory: Requirements
+UserQuestion: What documents does a customer need to open a savings account?
+AgentAnswer: Customer needs a valid ID document and proof of address to open a savings account.
+InternalNotes: Accept national ID, passport, or government-issued ID. Proof"
+2025-11-23T12:25:01,What is the minimum opening deposit for a savings account?,"Customer answer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+
+Internal notes: This amount is for a standard savings account. Some premium products may require a higher opening amount. Always refer to the local product sheet for the most current amount.
+
+Steps:
+1) Confirm the specific product type the customer is interested in.
+2) Check the latest product table to verify the required deposit amount.
+3) Inform the customer of the required deposit.
+4) Collect cash or confirm the transfer for the deposit.","Category: Account Opening
+Subcategory: Minimum Deposit
+UserQuestion: What is the minimum opening deposit for a savings account?
+AgentAnswer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+InternalNotes: Use local product sheet if the amount changes. Some pr"
+2025-11-23T12:25:09,When is interest paid on savings accounts?,"Customer answer: Interest on savings accounts is calculated daily and credited to the account monthly.
+
+Internal notes: While interest is generally credited monthly, some specific savings products might have different crediting frequencies, such as quarterly. If the customer asks for a specific date or for a particular product, please refer to the product's specific terms and conditions.
+
+Steps:
+1) Check the specific product conditions for the customer's savings account.
+2) Confirm the exact interest posting frequency for that product.
+3) If necessary, explain how interest is calculated in simple terms.","Category: Account Opening
+Subcategory: Minimum Deposit
+UserQuestion: What is the minimum opening deposit for a savings account?
+AgentAnswer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+InternalNotes: Use local product sheet if the amount changes. Some pr"
+2025-11-23T12:25:41,What information is required on a foreign exchange slip?,"Customer answer: This question is outside the scope of our banking support assistant. Please inform the customer that this channel only handles bank products and services.
+
+Internal notes: The question appears unrelated to bank accounts, cards, loans, deposits, or standard banking services.
+
+Steps:
+1) Politely explain the scope of this assistant.
+2) If your bank has another contact channel for this topic, share that with the customer.
+3) If unsure, escalate to a supervisor for guidance.","Category: Account Opening
+Subcategory: Requirements
+UserQuestion: What documents does a customer need to open a savings account?
+AgentAnswer: Customer needs a valid ID document and proof of address to open a savings account.
+InternalNotes: Accept national ID, passport, or government-issued ID. Proof"
+2025-11-23T12:27:05,What information is required on a Foreign Exchange Slip?,"Customer answer: This question is outside the scope of our banking support assistant. Please inform the customer that this channel only handles bank products and services.
+
+Internal notes: The question appears unrelated to bank accounts, cards, loans, deposits, or standard banking services.
+
+Steps:
+1) Politely explain the scope of this assistant.
+2) If your bank has another contact channel for this topic, share that with the customer.
+3) If unsure, escalate to a supervisor for guidance.","Category: Account Opening
+Subcategory: Requirements
+UserQuestion: What documents does a customer need to open a savings account?
+AgentAnswer: Customer needs a valid ID document and proof of address to open a savings account.
+InternalNotes: Accept national ID, passport, or government-issued ID. Proof"
+2025-11-23T12:27:12,What is the purpose of the Foreign Exchange Slip?,"Customer answer: This question is outside the scope of our banking support assistant. Please inform the customer that this channel only handles bank products and services.
+
+Internal notes: The question appears unrelated to bank accounts, cards, loans, deposits, or standard banking services.
+
+Steps:
+1) Politely explain the scope of this assistant.
+2) If your bank has another contact channel for this topic, share that with the customer.
+3) If unsure, escalate to a supervisor for guidance.","Category: Fees & Charges
+Subcategory: Transfer Fee
+UserQuestion: Is there a fee for transferring money to another bank?
+AgentAnswer: Yes, interbank transfers usually include a fee based on the transfer channel and amount.
+InternalNotes: Fees can differ between mobile banking, internet banking, and b"
+2025-11-23T12:27:22,What are the conditions for using the Foreign Exchange Slip?,"Customer answer: This question is outside the scope of our banking support assistant. Please inform the customer that this channel only handles bank products and services.
+
+Internal notes: The question appears unrelated to bank accounts, cards, loans, deposits, or standard banking services.
+
+Steps:
+1) Politely explain the scope of this assistant.
+2) If your bank has another contact channel for this topic, share that with the customer.
+3) If unsure, escalate to a supervisor for guidance.","Category: Fixed Deposit
+Subcategory: Early Withdrawal
+UserQuestion: Can a customer withdraw a fixed deposit before maturity?
+AgentAnswer: Yes, but early withdrawal may result in reduced interest or penalties according to the fixed deposit terms.
+InternalNotes: Some products may lose all interest if "
+2025-11-23T12:27:36,What details are included on the Fixed Deposit Certificate?,"Customer answer: I'm not sure what specific details are included on a Fixed Deposit Certificate.
+
+Internal notes: The provided knowledge base does not contain information about the specific details included on a Fixed Deposit Certificate.
+
+Steps:
+1) Inform the customer that you do not have this specific information.
+2) Escalate to a supervisor or refer the customer to a branch for detailed information on Fixed Deposit Certificates.","Category: Account Opening
+Subcategory: Requirements
+UserQuestion: What documents does a customer need to open a savings account?
+AgentAnswer: Customer needs a valid ID document and proof of address to open a savings account.
+InternalNotes: Accept national ID, passport, or government-issued ID. Proof"
+2025-11-23T12:31:33,What information must be filled on a deposit slip?,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Account Opening
+Subcategory: Requirements
+UserQuestion: What documents does a customer need to open a savings account?
+AgentAnswer: Customer needs a valid ID document and proof of address to open a savings account.
+InternalNotes: Accept national ID, passport, or government-issued ID. Proof"
+2025-11-23T12:43:15,What information is required on a withdrawal slip?,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Fixed Deposit
+Subcategory: Early Withdrawal
+UserQuestion: Can a customer withdraw a fixed deposit before maturity?
+AgentAnswer: Yes, but early withdrawal may result in reduced interest or penalties according to the fixed deposit terms.
+InternalNotes: Some products may lose all interest if "
+2025-11-23T12:43:26,What information is required on a foreign exchange slip?,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Account Opening
+Subcategory: Requirements
+UserQuestion: What documents does a customer need to open a savings account?
+AgentAnswer: Customer needs a valid ID document and proof of address to open a savings account.
+InternalNotes: Accept national ID, passport, or government-issued ID. Proof"
+2025-11-23T12:44:15,How can a customer reset their mobile banking password?,"Customer answer: Your customer can reset their mobile banking password by using the 'forgot password' option available within the mobile banking app, or by contacting support if they are locked out.
+
+Internal notes: Remember to never ask for the customer's full password or OTP. Always follow security rules.
+
+Steps:
+1) Ask the customer what error they are seeing when trying to log in.
+2) Guide them through the 'forgot password' process in the app if needed.
+3) If their account is locked, follow the unlock procedure in your internal system.
+4) Advise the customer to ensure their mobile banking app is updated to the latest version.","Category: Mobile Banking
+Subcategory: Login Issues
+UserQuestion: What should a customer do if they cannot log in to mobile banking?
+AgentAnswer: The customer should check their username, password, and internet connection, then use 'forgot password' or contact support if still locked out.
+InternalNot"
+2025-11-23T12:49:21,tell me about Terms & Conditions for Transfer Slip,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Fees & Charges
+Subcategory: Transfer Fee
+UserQuestion: Is there a fee for transferring money to another bank?
+AgentAnswer: Yes, interbank transfers usually include a fee based on the transfer channel and amount.
+InternalNotes: Fees can differ between mobile banking, internet banking, and b"
+2025-11-23T12:49:48,What is the minimum opening deposit for a savings account?,"Customer answer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+
+Internal notes: Remember to use the local product sheet if the amount changes, as some premium products may require a higher opening amount.
+
+Steps:
+1) Confirm the specific savings account product type the customer is interested in.
+2) Check the latest product table for the exact required deposit amount.
+3) Inform the customer of the required deposit.
+4) Collect cash or confirm transfer details for the deposit.","Category: Account Opening
+Subcategory: Minimum Deposit
+UserQuestion: What is the minimum opening deposit for a savings account?
+AgentAnswer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+InternalNotes: Use local product sheet if the amount changes. Some pr"
+2025-11-23T12:50:02,cannot 20 units ?,Sure. What case are you working on?,Smalltalk / intent — no context used.
+2025-11-23T12:50:16,How can I block my card if it is lost?,"Customer answer: If your card is lost, you should immediately request to block it. You can do this through our hotline, the mobile app, or by visiting a branch.
+
+Internal notes: It's crucial to prioritize blocking the card immediately to reduce the risk of fraud.
+
+Steps:
+1) Confirm the customer's card details and identity.
+2) Block the card in the system immediately.
+3) Inform the customer that their card has been blocked.
+4) Offer to order a replacement card for them.
+5) Advise the customer to monitor their account for any suspicious transactions.","Category: Debit Card
+Subcategory: Card Block
+UserQuestion: How can a customer block their debit card if it is lost or stolen?
+AgentAnswer: The customer should immediately request to block the card via the hotline, mobile app, or branch.
+InternalNotes: Prioritize card blocking before any other discus"
+2025-11-23T12:50:37,list all policy?,Of course. How can I assist you with this customer?,Smalltalk / intent — no context used.
+2025-11-23T12:51:00,please list all existing policies in our bank,"Customer answer: This question is outside the scope of our banking support assistant. Please inform the customer that this channel only handles bank products and services.
+
+Internal notes: The question appears unrelated to bank accounts, cards, loans, deposits, or standard banking services.
+
+Steps:
+1) Politely explain the scope of this assistant.
+2) If your bank has another contact channel for this topic, share that with the customer.
+3) If unsure, escalate to a supervisor for guidance.","Category: Account Opening
+Subcategory: Requirements
+UserQuestion: What documents does a customer need to open a savings account?
+AgentAnswer: Customer needs a valid ID document and proof of address to open a savings account.
+InternalNotes: Accept national ID, passport, or government-issued ID. Proof"
+2025-11-23T12:51:27,Is there a fee for transferring money to another bank?,"Customer answer: Yes, transferring money to another bank usually includes a fee, which can vary based on the transfer channel you use and the amount being transferred.
+
+Internal notes: Fees can differ between mobile banking, internet banking, and branch transfers.
+
+Steps:
+1) Ask the customer which channel they will use for the transfer (e.g., mobile app, internet banking, or branch).
+2) Check the bank's transfer fee table for the specific channel and amount.
+3) Inform the customer of the approximate fee and any applicable limits.","Category: Fees & Charges
+Subcategory: Transfer Fee
+UserQuestion: Is there a fee for transferring money to another bank?
+AgentAnswer: Yes, interbank transfers usually include a fee based on the transfer channel and amount.
+InternalNotes: Fees can differ between mobile banking, internet banking, and b"
+2025-11-23T12:51:34,Thank you,"Sure, go ahead. What would you like to ask?",Smalltalk / intent — no context used.
+2025-11-23T13:01:14,What is the minimum opening deposit for a savings account?,"Customer answer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+
+Internal notes: Please confirm the specific product type with the customer, as some premium products may require a higher opening amount. Always refer to the local product sheet for the most current amount.
+
+Steps:
+1) Confirm product type with the customer.
+2) Check the latest product table for the exact required deposit.
+3) Inform the customer of the required deposit amount.
+4) Collect cash or transfer confirmation for the deposit.","Category: Account Opening
+Subcategory: Minimum Deposit
+UserQuestion: What is the minimum opening deposit for a savings account?
+AgentAnswer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+InternalNotes: Use local product sheet if the amount changes. Some pr"
+2025-11-23T13:01:27,List all bank policies,"Sure, go ahead. What would you like to ask?",Smalltalk / intent — no context used.
+2025-11-23T13:02:23,What information is required on a foreign exchange slip?,"Customer answer: I'm sorry, the specific information required on a foreign exchange slip is not detailed in my current knowledge base.
+
+Internal notes: The provided policy document for Foreign Exchange Slips outlines terms and conditions regarding its validity and amendments, but does not specify the information a customer needs to provide on the slip itself.
+
+Steps:
+1) Escalate to a supervisor or relevant department for clarification on required foreign exchange slip information.
+2) Advise the customer to visit a branch or speak with a foreign exchange specialist for detailed requirements.","Terms & Conditions for Foreign Exchange Slip
+1. Please check your foreign exchange slip before leaving the counter and inform the Bank immediately
+if there are any discrepancies.
+2. This foreign exchange slip is only valid when signed by our authorized officer(s) or validated by our
+teller machine.
+"
+2025-11-23T13:03:04,When is a foreign exchange slip valid?,"Customer answer: A foreign exchange slip is valid when it has been signed by our authorized officer(s) or validated by our teller machine.
+
+Internal notes: Remind the customer to check their slip before leaving the counter and to inform the Bank immediately of any discrepancies.
+
+Steps:
+1) Inform the customer that the slip is valid when signed by an authorized officer or validated by a teller machine.
+2) Advise the customer to check their slip for discrepancies before leaving the counter.","Terms & Conditions for Foreign Exchange Slip
+1. Please check your foreign exchange slip before leaving the counter and inform the Bank immediately
+if there are any discrepancies.
+2. This foreign exchange slip is only valid when signed by our authorized officer(s) or validated by our
+teller machine.
+"
+2025-11-23T13:04:31,Do we need it for future ?,"Customer answer: Yes, you should keep your foreign exchange slip for future reference.
+
+Internal notes: This is a standard policy for foreign exchange slips.
+
+Steps:
+1) Inform the customer to keep the foreign exchange slip for future reference.","Terms & Conditions for Foreign Exchange Slip
+1. Please check your foreign exchange slip before leaving the counter and inform the Bank immediately
+if there are any discrepancies.
+2. This foreign exchange slip is only valid when signed by our authorized officer(s) or validated by our
+teller machine.
+"
+2025-11-23T13:05:03,without signed also valid ?,Happy to help. Tell me the customer's question.,Smalltalk / intent — no context used.
+2025-11-23T13:11:16,What information is required on a foreign exchange slip?,"Customer answer: I'm sorry, I don't have specific information about what details are required to be filled out on a foreign exchange slip in the knowledge base.
+
+Internal notes: The provided context outlines the terms and conditions for foreign exchange slips, such as validity and amendment procedures, but does not detail the specific information customers need to provide to complete the slip.
+
+Steps:
+1. Escalate this query to a supervisor or the relevant department for clarification.","Terms & Conditions for Foreign Exchange Slip
+1. Please check your foreign exchange slip before leaving the counter and inform the Bank immediately
+if there are any discrepancies.
+2. This foreign exchange slip is only valid when signed by our authorized officer(s) or validated by our
+teller machine.
+"
+2025-11-23T13:17:56,What information is required on a foreign exchange slip?,"Customer answer: I'm sorry, I don't have specific details about what information is required to be filled out on a foreign exchange slip in the knowledge base.
+
+Internal notes: The provided context outlines the terms and conditions for foreign exchange slips, such as validity and amendment procedures, but does not specify the customer-required fields or information to be entered on the slip itself.
+
+Steps:
+1. Advise the customer that you do not have this specific information.
+2. Escalate the query to a supervisor or the relevant department for clarification.","Terms & Conditions for Foreign Exchange Slip
+1. Please check your foreign exchange slip before leaving the counter and inform the Bank immediately
+if there are any discrepancies.
+2. This foreign exchange slip is only valid when signed by our authorized officer(s) or validated by our
+teller machine.
+"
+2025-11-23T13:26:34,What information is required on a foreign exchange slip?,"Customer answer: I'm sorry, I don't have the specific details about what information is required on a foreign exchange slip in my current knowledge base.
+
+Internal notes: The provided context only contains terms and conditions related to the validity and handling of foreign exchange slips, not the specific information customers need to provide when filling one out.
+
+Steps:
+1. Apologize to the customer for not having the information.
+2. Escalate the query to a supervisor or the relevant department for assistance.","Terms & Conditions for Foreign Exchange Slip
+1. Please check your foreign exchange slip before leaving the counter and inform the Bank immediately
+if there are any discrepancies.
+2. This foreign exchange slip is only valid when signed by our authorized officer(s) or validated by our
+teller machine.
+"
+2025-11-23T13:26:45,When is a foreign exchange slip valid?,"Customer answer: A foreign exchange slip is valid when it has been signed by our authorized officer(s) or validated by our teller machine.
+
+Internal notes: The validity condition is explicitly stated in the terms and conditions for foreign exchange slips.
+
+Steps:
+1. Inform the customer that the foreign exchange slip is valid when signed by an authorized officer or validated by a teller machine.
+2. Advise the customer to check their slip for these validations.","Terms & Conditions for Foreign Exchange Slip
+1. Please check your foreign exchange slip before leaving the counter and inform the Bank immediately
+if there are any discrepancies.
+2. This foreign exchange slip is only valid when signed by our authorized officer(s) or validated by our
+teller machine.
+"
+2025-11-23T13:27:02,Do we need it for future ?,"Customer answer: Yes, please keep your foreign exchange slip for future reference.
+
+Internal notes: Doc 1, point 4 explicitly states that the foreign exchange slip should be kept for future reference.
+
+Steps:
+1. Inform the customer that they should keep the foreign exchange slip for future reference.","Terms & Conditions for Foreign Exchange Slip
+1. Please check your foreign exchange slip before leaving the counter and inform the Bank immediately
+if there are any discrepancies.
+2. This foreign exchange slip is only valid when signed by our authorized officer(s) or validated by our
+teller machine.
+"
+2025-11-23T13:27:11,without signed also valid ?,Sure. What case are you working on?,Smalltalk / intent — no context used.

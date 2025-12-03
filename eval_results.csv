@@ -1,0 +1,223 @@
+id,category,question,expected_keywords,passed,answer,context_preview
+P1,product_info,What is the minimum balance required for a savings account?,"minimum, balance, savings",True,"Customer answer: The required minimum balance for a standard savings account is 10 units of local currency.
+
+Internal notes: The minimum balance for a standard savings account is 10 units of local currency, as stated in Doc 1. If the account balance falls below this minimum, a maintenance fee may be charged according to the fee schedule (Doc 1, Doc 4 - 1.5).
+
+Steps:
+1) Check the customer's specific savings account type.
+2) Inform the customer of the 10 units of local currency minimum balance.
+3) Advise the customer about potential maintenance fees if the balance drops below the minimum.","Category: Savings Account
+Subcategory: Minimum Balance
+Customer question: What is the required minimum balance for a savings account?
+Customer answer: The required minimum balance for a standard savings account is 10 units of local currency.
+Internal notes: If balance falls below minimum, account may be charged a maintenance fee according to the fee schedule.
+Steps: 1) Check account type.
+2) Check product table for minimum balance.
+3) Inform customer of minimum and any related fees.
+Tags: savings, minimum balance, fee"
+P2,product_info,Do you offer fixed deposit accounts and what is the basic condition?,"fixed, deposit",True,"Customer answer: Yes, we offer fixed deposit accounts. The basic condition for opening one is to make an initial deposit, the minimum amount of which is determined by the bank.
+
+Internal notes:
+The bank offers Fixed Deposit Accounts (Doc 2, Doc 4).
+For opening a Fixed Deposit Account, a minimum deposit is required, and the specific amount is determined by the Bank (Doc 2, point 1).
+
+Steps:
+1. Confirm the customer's interest in opening a Fixed Deposit account.
+2. Advise the customer that they will need to make an initial deposit, and the specific minimum amount can be provided by the bank.
+3. Suggest the customer visit a branch or check the official system for current minimum deposit requirements.","Conditions & Agreements for
+Savings/Current/Fixed Deposit Account
+The acceptance of the application is at the sole discretion of ASIA-PACIFIC DEVELOPMENT BANK PLC.
+(the Bank) who reserves the right to reject the application without being obliged to disclose any reason
+thereof.
+The account holder agrees and consents to be bound by the conditions and agreements of the Bank as follows:
+1. Savings Account
+1.1. The account holder shall make an initial deposit not lower than the amount fixed by the Bank,
+and the account balance shall at all times be not lower than the Bank’s Terms which are subject to
+changes as the Bank considers appropriate.
+1.2. The account holder can deposit money into the account with or without using the passbook at the
+Bank’s offices.
+1.3. The account holder can withdraw, transfer money, pay for goods/services with or without using
+the passbook at the Bank’s offices.
+1.4. The Bank will give the passbook to the account holder as evidence, which shall be kept in the safe
+place by the account holder. If it is damaged or lost, the account holder needs to contact the Bank
+to notify immediately.
+1.5. In the event the balance of the deposits in the account of the account holder is lower than the
+minimum amount required by the Bank or no transaction is made for a period of more than 1 year,
+the account holder consents to pay to the Bank an account maintenance charge in the amount
+fixed by the Bank by having it deducted from the account of the account holder immediately;
+and if no deposit remains, the account holder allows the Bank to close the account immediately
+without notice.
+1.6. The Bank agrees to pay to the account holder’s interest at the time specified and at the rate notified
+by the Bank each time, and the interest after withholding tax as required by the law is also included
+as a deposit in the account.
+1.7. The Specimen must be duly completed and signed by the Account holder(s)/the Authorized
+Signatory(ies) in the presence of an Authorized Officer of the Bank.
+2. Current Account
+2.1. The account holder shall make an initial deposit not lower than the amount fixed by the Bank,
+and the account balance shall at all times be not lower than the Bank’s Terms which are subject to
+changes as the Bank considers appropriate.
+2.2. In the event the balance of the deposits in the account of the account holder is lower than the
+minimum amount required by the Bank or no transaction is made for a period of more than 1 year,
+the account holder consents to pay to the Bank an account maintenance charge in the amount
+fixed by the Bank by having it deducted from the account of the account holder immediately;
+and if no deposit remains, the account holder allows the Bank to close the account immediately
+without notice.
+2.3. The account holder shall pay the ordering cheques book, and the fee amount is fixed by the Bank.
+2.4. The account holder has to make sure that he/she has enough balance in account before issuing
+cheque to others. In the event the account holder issues cheque without sufficient fund, the account
+holder agrees and consents to the Bank to deduct from the account of the account holder for any
+applicable service charge. In addition to other fee charges, the account holder shall be subject to
+fine/penalty by applicable law."
+G1,general,What documents are required to open a new bank account?,"id, passport, national, document",True,"Customer answer: To open a new bank account, you will need a valid ID document and proof of your address.
+
+Internal notes: For a savings account, a valid ID can be a national ID, passport, or any government-issued ID. Proof of address can be a utility bill, lease agreement, or an employer letter, provided it is not older than 3 months (Doc 1).
+Please note that requirements may vary for other account types, such as current accounts, proprietorship/partnership accounts, or limited company accounts, which require additional documents like business licenses, registration letters, and board resolutions (Doc 3, Doc 4).
+
+Steps:
+1. Verify the customer's ID and proof of address.
+2. Fill in the account opening form with the customer.
+3. Confirm the minimum opening deposit required for the specific account type.","Category: Account Opening
+Subcategory: Requirements
+Customer question: What documents does a customer need to open a savings account?
+Customer answer: Customer needs a valid ID document and proof of address to open a savings account.
+Internal notes: Accept national ID, passport, or government-issued ID. Proof of address: utility bill, lease, or employer letter not older than 3 months.
+Steps: 1) Verify ID and address.
+2) Fill in account opening form.
+3) Collect signature.
+4) Create customer profile in system.
+5) Confirm minimum opening deposit.
+Tags: account opening, savings, KYC, documents"
+G2,general,How can I update my registered phone number?,"update, phone, branch",True,"Customer answer: You can update your phone number at a branch, and in some cases, through our digital channels.
+
+Internal notes: According to Doc 3, customers can update their phone number at a branch. Digital channels may also be an option in some cases, and phone number changes may require OTP verification.
+
+Steps:
+1. Explain that the customer can update their phone number at a branch or potentially through digital channels.
+2. If a branch visit is required, list any necessary documents (though the context doesn't specify for phone numbers, it mentions for address changes).
+3. Remind the customer about the importance of keeping their information up-to-date.","ID: 63
+Customer question: Can I change my register phone number by myself via Mobile App?
+Customer answer: You can register by using your registered mobile number and following the instructions in the app. An OTP will be sent to verify your identity during registration.
+Internal notes: Registration may fail if account information doesn't match core banking, phone number not updated, or system mismatch occurs.
+Steps: 1. Confirm customer phone number matches core banking.
+2. Guide them to Registration → Enter phone → Verify OTP.
+3. Ask them to retry if OTP expires.
+4. Check if customer already registered before.
+5. Escalate if registration logs show system error."
+MB1,mobile_banking,I forgot my mobile banking password. How can I reset it?,"reset, password",True,"Customer answer: You can reset your mobile banking password by using the 'forgot password' option on the login page. If you're still having trouble, please contact us for further assistance.
+
+Internal notes: The customer needs to reset their mobile banking password. According to Doc 3, the customer should be guided through the 'forgot password' process. Common login issues include incorrect credentials, which a password reset would resolve.
+
+Steps:
+1. Ask the customer if they see a 'forgot password' link or option on their mobile banking app's login screen.
+2. Guide them through the 'forgot password' process within the app.
+3. If the customer is unable to use the in-app reset, follow the bank's procedure for manual password reset, ensuring identity verification.","ID: 43
+Customer question: How to reset password inside login?
+Customer answer: You can log in by entering your registered phone number and your Mobile/Internet Banking password. If you cannot log in, please check your credentials or reset your password.
+Internal notes: Login issues are commonly caused by incorrect password, inactive accounts, outdated app versions, or device configuration issues. Check for account lock or multiple failed attempts.
+Steps: 1. Confirm the customer is using the correct registered phone number.
+2. Ask them to verify their password or reset it if forgotten.
+3. Check if the system shows the user as locked or inactive.
+4. Ask customer to update the app or restart the device.
+5. Escalate if login attempts exceed limit."
+MB2,mobile_banking,I did not receive an OTP when trying to login. What should I do?,"otp, network, phone",False,"Customer answer: To log in, please use your registered phone number and your Mobile/Internet Banking password. If you're having trouble, please check your login details or reset your password.
+
+Internal notes: The customer is experiencing an issue where they are not receiving an OTP when trying to log in. According to Doc 4, ""Couldn't login iBanking due to Not Receive OTP code"", common login issues include incorrect passwords, inactive accounts, outdated app versions, or device configuration problems. It's also important to check for account locks or multiple failed login attempts.
+
+Steps:
+1.  Confirm the customer is using the correct registered phone number.
+2.  Ask the customer to verify their password or reset it if they have forgotten it.
+3.  Check if the system shows the user's account as locked or inactive.","ID: 4
+Customer question: Login is required OTP, how to get OTP code?
+Customer answer: You can log in by entering your registered phone number and your Mobile/Internet Banking password. If you cannot log in, please check your credentials or reset your password.
+Internal notes: Login issues are commonly caused by incorrect password, inactive accounts, outdated app versions, or device configuration issues. Check for account lock or multiple failed attempts.
+Steps: 1. Confirm the customer is using the correct registered phone number.
+2. Ask them to verify their password or reset it if forgotten.
+3. Check if the system shows the user as locked or inactive.
+4. Ask customer to update the app or restart the device.
+5. Escalate if login attempts exceed limit."
+T1,process_troubleshoot,Customer cannot login to mobile app even with correct password. What should the agent check?,"locked, status, failed, attempt",False,"Customer answer: Please check for any error messages you are seeing. We can also check if your account is locked, and I recommend ensuring your app is updated to the latest version and restarting your device.
+
+Internal notes: Login issues, even with a seemingly correct password, can be caused by an account lock, an inactive account, an outdated app version, or device configuration problems. It's crucial to never ask for the customer's full password or OTP.
+
+Steps:
+*   1. Ask the customer what specific error message they are receiving.
+*   2. Check the system to see if the user's account is locked or inactive.
+*   3. Advise the customer to update their mobile banking app to the latest version and restart their device.","ID: 11
+Customer question: Couldn't login iBanking due to Human error from customer side ( Customer Knowledge )
+Customer answer: You can log in by entering your registered phone number and your Mobile/Internet Banking password. If you cannot log in, please check your credentials or reset your password.
+Internal notes: Login issues are commonly caused by incorrect password, inactive accounts, outdated app versions, or device configuration issues. Check for account lock or multiple failed attempts.
+Steps: 1. Confirm the customer is using the correct registered phone number.
+2. Ask them to verify their password or reset it if forgotten.
+3. Check if the system shows the user as locked or inactive.
+4. Ask customer to update the app or restart the device.
+5. Escalate if login attempts exceed limit."
+T2,process_troubleshoot,Customer forgot their CIF number. What should the agent do?,"verify, identity, cif, branch",True,"Customer answer: If you forgot your CIF number, you can visit any of our branches with your ID, or we can verify your identity through a secure channel and provide you with the CIF number from our system.
+
+Internal notes: CIF (Customer Information File) is confidential. The agent must confirm the customer's identity using full KYC (Know Your Customer) information such as ID, date of birth, and phone number before disclosing the CIF. The CIF should never be sent via unsecured channels. The information should be retrieved from the core banking system.
+
+Steps:
+1. Verify the customer's identity using KYC information (e.g., ID, date of birth, phone number).
+2. Search the customer's profile in the core banking system using their name, ID, or phone number.
+3. Confirm the CIF number and provide it to the customer via a secure channel.","ID: 37
+Customer question: How should I do, if I forget my CIF number?
+Customer answer: This request relates to: How should I do, if I forget my CIF number?. Please follow the standard procedure to assist the customer.
+Internal notes: General inquiry. No specific pattern matched. Use product knowledge and standard support steps.
+Steps: 1. Verify customer identity.
+2. Understand the exact customer request.
+3. Check the related system or product information.
+4. Provide a clear explanation.
+5. Escalate if outside current policy."
+T3,process_troubleshoot,Customer account is dormant. How can we reactivate it?,"dormant, reactivate, branch",True,"Customer answer: Your account is dormant due to inactivity. To reactivate it, you may need to visit a branch or follow our bank's specific process.
+
+Internal notes: Dormant accounts are subject to regulatory rules. The agent must verify the customer's ID and follow the standard operating procedure (SOP) for reactivation. It is crucial not to process large transactions until the account is fully reactivated.
+
+Steps:
+1.  Check the account status in the core banking system.
+2.  Inform the customer about the dormant status and the required documents for reactivation.
+3.  Advise the customer to visit a branch or follow the remote reactivation process if one is available.","No: 7
+IssueTopic: Dormant Account
+Scenario: Dormant Account Complaint From Customer
+Customer question: Dormant Account Complaint From Customer - what should the customer do?
+Customer answer: Explain that the account is dormant due to inactivity. The customer may need to visit the branch or follow the bank's process to reactivate the account.
+Internal notes: Dormant accounts are subject to regulatory rules. Verify ID and follow reactivation SOP. Do not process large transactions until the account is fully reactivated.
+Steps: 1) Check account status in core banking.
+2) Inform customer of dormant status and required documents.
+3) Ask them to visit a branch or follow remote reactivation process if available.
+4) Update status once all checks are passed.
+5) Confirm reactivation and allowable transactions."
+L1,off_topic,Who is the CEO of the bank?,"not, sure",True,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","No: 27
+IssueTopic: MB
+Scenario: Top Up
+Customer question: Top Up?
+Customer answer: For this issue (MB), please explain to the customer based on bank policy. Scenario: Top Up.
+Internal notes: Issue topic: MB. Category: nan.
+This scenario occurs when: Top Up. Follow the standard operating procedures for this product/service.
+Steps: 1) Confirm customer identity and basic details.
+2) Check the relevant system screen (core banking / MB / IB / card system).
+3) Verify current status and recent transactions.
+4) Inform the customer of the correct process or resolution.
+5) Escalate to supervisor if policy is unclear or system shows abnormal status."
+L2,off_topic,Can you recommend which investment I should choose?,"not, sure",True,"Customer answer: I'm not fully sure based on the available information. Please inform the customer that you will double-check and get back to them.
+
+Internal notes: Retrieval confidence was low or there is no closely related article in the current knowledge base.
+
+Steps:
+1) Confirm the customer's product and key details.
+2) Check the official product policy or internal system manually.
+3) If still unclear, escalate to a supervisor. (Human handoff recommended.)","Category: Account Opening
+Subcategory: Minimum Deposit
+Customer question: What is the minimum opening deposit for a savings account?
+Customer answer: The minimum opening deposit for a standard savings account is 10 units of local currency.
+Internal notes: Use local product sheet if the amount changes. Some premium products may require a higher opening amount.
+Steps: 1) Confirm product type.
+2) Check latest product table.
+3) Inform customer of required deposit.
+4) Collect cash or transfer confirmation.
+Tags: account opening, savings, minimum deposit"

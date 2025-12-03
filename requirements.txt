@@ -1,0 +1,11 @@
+pandas
+openpyxl
+chromadb
+sentence-transformers
+google-genai
+gradio
+pdfplumber
+python-dotenv
+streamlit
+python-dotenv
+chromadb

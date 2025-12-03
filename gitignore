@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+
+# Chroma DB folders
+chroma_excel_rag/
+chroma_db/
+
+# Data
+data/excel/*
+data/pdf/*
+
+# MacOS
+.DS_Store
