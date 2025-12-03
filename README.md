@@ -55,7 +55,7 @@ README.md
 ### 1. Clone and install
 
 ```bash
-git clone <your_repo_link>
+git clone https://github.com/limravydev/intelligent-call-center-assistant.git
 cd call-center-rag
 python -m venv venv
 source venv/bin/activate  # macOS / Linux
