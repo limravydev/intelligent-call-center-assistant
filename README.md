@@ -1,6 +1,6 @@
 # 📘 Intelligent Call Center Assistant
 
-An end-to-end Retrieval-Augmented Generation (RAG) copilot built for bank call-center agents. It ingests Excel policies and PDF playbooks, indexes them with SentenceTransformers + ChromaDB, and uses Gemini to draft grounded responses with clear agent action steps.
+An end-to-end Retrieval-Augmented Generation (RAG) built for bank call-center agents. It ingests Excel policies and PDF playbooks, indexes them with SentenceTransformers + ChromaDB, and uses Gemini to draft grounded responses with clear agent action steps.
 
 ---
 
