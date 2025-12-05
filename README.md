@@ -4,6 +4,12 @@ An end-to-end Retrieval-Augmented Generation (RAG) built for bank call-center ag
 
 ---
 
+## Demo
+
+![output_fullscreen](https://github.com/user-attachments/assets/321ce413-9fd1-423a-ba5c-8b97959a185e)
+
+---
+
 ## ✨ Key Capabilities
 
 - **Multi-source ingestion:** Cleans Excel sheets and PDF manuals, chunks intelligently, and keeps metadata for traceability.
